@@ -1,5 +1,4 @@
 # uC1_2022_YARLEQUE_CRISTHIANBALTAZAR
-# unp
 
 *Curso:* Microcontroladores I
 
